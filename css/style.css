@@ -5,3 +5,18 @@ body{
   text-align: center;
 
 }
+h1{
+  font-size: 60px;
+  color: black;
+}
+
+h2{
+  font-size: 40px;
+  color: blue;
+}
+
+p{
+  font-size: 35px;
+  text-align: center;
+  color: black;
+}
